@@ -15,3 +15,5 @@ Requirements:
  - This mod
  - BepinEx
  - Gorilla Tag
+
+#- Made by Lucy! Discord.gg/
