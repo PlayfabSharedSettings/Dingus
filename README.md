@@ -19,4 +19,4 @@ Requirements:
 
 
 
-- Made by Lucy! Discord.gg/
+- Made by Lucy! Discord.gg/rZdnyD8HGu
