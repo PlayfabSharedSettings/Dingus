@@ -16,4 +16,4 @@ Requirements:
  - BepinEx
  - Gorilla Tag
 
-#- Made by Lucy! Discord.gg/
+- Made by Lucy! Discord.gg/
