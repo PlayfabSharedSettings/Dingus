@@ -19,4 +19,10 @@ Requirements:
 
 
 
-- Made by Lucy! Discord.gg/rZdnyD8HGu
+- Made by Lucy, Duv14, And Zlothy! Discord.gg/rZdnyD8HGu
+
+Duv14: Handling Script (holding/throwing), project
+
+Lucy: Creating the video and helping with the project
+
+Zlothy: Helping Network the dingus :3
